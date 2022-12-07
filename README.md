@@ -4,6 +4,6 @@
 
 transformers-text.ipynb - извлечение фичей из комментариев
 
-test_transformers_text_features.csv и transformers_text_features.csv - результирующие файлы transformers-text.ipynb
+test_transformers_text_features.csv и transformers_text_features.csv - результирующие файлы transformers-text.ipynb. Update: удалены по просьбе организаторов. 
 
 Solution.ipynb - содержит в себе код создания признаков на основе подсчета статистик и обучение модели.
